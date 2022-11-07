@@ -26,9 +26,9 @@ class MyWidget(QWidget):
         self.repaint()
 
     def draw(self, qp):
-        w, h = randint(50, 150), randint(50, 150)
+        w = randint(50, 150)
         qp.setBrush(QColor(255, 255, 0))
-        qp.drawEllipse(QPoint(200, 300), w, h)
+        qp.drawEllipse(QPoint(200, 250), w, w)
 
 
 if __name__ == '__main__':

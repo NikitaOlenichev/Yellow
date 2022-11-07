@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>450</width>
-    <height>462</height>
+    <width>422</width>
+    <height>454</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,9 +17,9 @@
    <property name="geometry">
     <rect>
      <x>130</x>
-     <y>40</y>
-     <width>171</width>
-     <height>81</height>
+     <y>20</y>
+     <width>151</width>
+     <height>51</height>
     </rect>
    </property>
    <property name="font">
@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Нажми</string>
+    <string>Нажмите</string>
    </property>
   </widget>
  </widget>
